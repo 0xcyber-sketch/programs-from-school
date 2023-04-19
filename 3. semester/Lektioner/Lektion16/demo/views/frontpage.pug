@@ -1,0 +1,9 @@
+html 
+    head
+        title Emils chat 
+    body
+        ul
+            each message in messages
+                li 
+                    - var id = message.docID
+                    a(href="/message/"+id)= message.messagetext

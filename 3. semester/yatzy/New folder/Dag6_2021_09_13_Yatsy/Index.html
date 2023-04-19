@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <h1 class="title">Super fedt Yatzy spil</h1>
+    <section class="roll">
+        <div id="dices" class="roll_dice">
+            <a onclick="hold(0)"><img class="spin" src="img/dice1.png"></a>
+            <a onclick="hold(1)"><img class="spin" src="img/dice1.png"></a>
+            <a onclick="hold(2)"><img class="spin" src="img/dice1.png"></a>
+            <a onclick="hold(3)"><img class="spin" src="img/dice1.png"></a>
+            <a onclick="hold(4)"><img class="spin" src="img/dice1.png"></a>
+        </div>
+        <p>turn: <span id="turn">1</span></p>
+        <button id="throw_button" onclick="throwDice()">Roll again</button>
+    </section>
+    <section id="points" class="point">
+        <a onclick="choose(0)">
+            <div class="point_box">
+                <p class="point_box_title">1's</p>
+                <p id="result_0" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(1)">
+            <div class="point_box">
+                <p class="point_box_title">2's</p>
+                <p id="result_1" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(2)">
+            <div class="point_box">
+                <p class="point_box_title">3's</p>
+                <p id="result_2" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(3)">
+            <div class="point_box">
+                <p class="point_box_title">4's</p>
+                <p id="result_3" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(4)">
+            <div class="point_box">
+                <p class="point_box_title">5's</p>
+                <p id="result_4" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(5)">
+            <div class="point_box">
+                <p class="point_box_title">6's</p>
+                <p id="result_5" class="point_box_points">0</p>
+            </div>
+        </a>
+        <div class="point_sum">
+            <p id="sum" class="point_sum_points">0</p>
+            <p id="bonus" class="point_sum_bonus">0</p>
+        </div>
+        <a onclick="choose(6)">
+            <div class="point_box">
+                <p class="point_box_title">One pair</p>
+                <p id="result_6" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(7)">
+            <div class="point_box">
+                <p class="point_box_title">Two pair</p>
+                <p id="result_7" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(8)">
+            <div class="point_box">
+                <p class="point_box_title">Three same</p>
+                <p id="result_8" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(9)">
+            <div class="point_box">
+                <p class="point_box_title">Four same</p>
+                <p id="result_9" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(10)">
+            <div class="point_box">
+                <p class="point_box_title">Full house</p>
+                <p id="result_10" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(11)">
+            <div class="point_box">
+                <p class="point_box_title">Small straight</p>
+                <p id="result_11" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(12)">
+            <div class="point_box">
+                <p class="point_box_title">Large straight</p>
+                <p id="result_12" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(13)">
+            <div class="point_box">
+                <p class="point_box_title">Chance</p>
+                <p id="result_13" class="point_box_points">0</p>
+            </div>
+        </a>
+        <a onclick="choose(14)">
+            <div class="point_box">
+                <p class="point_box_title">Yatzy</p>
+                <p id="result_14" class="point_box_points">0</p>
+            </div>
+        </a>
+        <div class="point_total">
+            <p id="total" class="point_sum_total">0</p>
+        </div>
+    </section>
+    <section id="popup" class="popup none">
+        <div class="popup_box">
+            <h2>Spillet er slut</h2>
+            <p id="score" class="popup_box_result">0</p>
+            <button onclick="reload()">Spil igen</button>
+        </div>
+    </section>
+</body>
+</html>

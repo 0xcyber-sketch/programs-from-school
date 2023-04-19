@@ -1,0 +1,3 @@
+Ja fordi observer pattern, ikke tager hensyn til hvilken client der er forbundet.
+
+(Eller nej fordi den er tilpasset)

@@ -1,0 +1,11 @@
+html 
+    head 
+        title= message.docID
+    body
+        h1= message.messagetext
+        h2= message.owner
+        form(action="/message/" + message.docID, method="post")
+            input(type="submit", value="Slet besked")
+        hr
+        a(href="/" ) tilbage
+        

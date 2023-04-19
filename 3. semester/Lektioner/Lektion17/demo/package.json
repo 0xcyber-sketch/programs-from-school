@@ -1,0 +1,17 @@
+{
+  "name": "lektion17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "EBLL",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}

@@ -1,0 +1,8 @@
+html 
+    include includes/html_head
+    body 
+        ul
+            each fil in filer 
+                li 
+                    a(href= "/filer/" + fil) #{fil}
+                

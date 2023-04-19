@@ -1,0 +1,82 @@
+/* Hold frame og få padding til at gå ind af */
+* {
+    box-sizing: border-box;
+}
+
+body {
+
+    margin: 60px auto;
+    max-width: 700px;
+    border-radius: 20px;
+    background-image: linear-gradient(#ffffff6e, #0000006e);
+    text-align: center;
+    
+}
+
+
+html {
+    background-image: url(img/bag.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center ;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+
+.dice {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    padding: 10px;  
+    
+}
+
+.dice img {
+    
+    margin: auto;
+}
+
+#turn {
+    text-align: center      ;
+}
+
+button {
+    font-size: 24px;
+    font-weight: 300;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.points {
+    display: grid;
+   grid-template-columns:  auto;
+
+    padding: 30px;
+    border-top: 2px solid #ffffff6e;
+    border-radius: 10px;
+    margin: 20px 0px;
+    text-align: left;
+    grid-gap: 10px;
+}
+
+
+input{
+    border-radius: 15px;
+    width: 60px;
+}
+
+div .points div {
+    display: grid;
+    grid-template-columns: 20% 20% 15% 15% 15% 15%;
+}
+
+
+/*
+https://stackoverflow.com/questions/29973357/how-do-you-format-code-in-visual-studio-code-vscode
+*/
+ 

@@ -1,0 +1,30 @@
+
+h1 {color : #000;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr
+}
+
+img {
+    max-width: 180px;
+    max-height: 180px;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+
+
+@media only screen and (min-width: 600px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+        
+    }
+    
+    
+}

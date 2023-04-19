@@ -1,0 +1,12 @@
+1605874211042	Delete elements
+1605883271519	Rename field 'txfTid1'
+1605883294210	Rename field 'txfTid2'
+1605884560834	Rename local variable 'time'
+1605884575125	Rename local variable 'minut'
+1605886283630	Rename type 'CreateKonferenceWindow'
+1605886306293	Rename type 'KonferenceWindow'
+1605886506578	Copy compilation unit
+1605892126616	Copy compilation unit
+1605892141666	Rename type 'KonferenceKWindow'
+1605892152297	Rename type 'KonferenceUWindow'
+1605892306022	Rename field 'txfSted'

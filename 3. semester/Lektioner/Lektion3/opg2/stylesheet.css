@@ -1,0 +1,19 @@
+
+h1 {color : #000;
+    text-decoration: underline;
+}
+
+img {
+    max-width: 60px;
+    max-height: 60px;
+    
+    
+}
+
+
+  table, td {
+    border: 2px solid;
+    border-color: blue;
+    border-collapse: collapse;
+    text-align: center;
+}

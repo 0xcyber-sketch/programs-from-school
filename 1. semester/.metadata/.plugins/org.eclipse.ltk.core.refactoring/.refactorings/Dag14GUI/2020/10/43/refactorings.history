@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 packages to &apos;Dag15GUI02/src/eu&apos;&#x0D;&#x0A;- Original project: &apos;Dag14GUI&apos;&#x0D;&#x0A;- Destination element: &apos;Dag15GUI02/src/eu&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Dag14GUI/src/guidemo_checkbox&#x0D;&#x0A;     Dag14GUI/src/guidemo_textarea&#x0D;&#x0A;     Dag14GUI/src/guidemo_1&#x0D;&#x0A;     Dag14GUI/src/guidemo_2" description="Copy packages" destination="=Dag15GUI02/src&lt;eu" element1="/src&lt;guidemo_checkbox" element2="/src&lt;guidemo_textarea" element3="/src&lt;guidemo_1" element4="/src&lt;guidemo_2" flags="589830" fragments="4" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1603089230581" version="1.0"/>
+</session>
