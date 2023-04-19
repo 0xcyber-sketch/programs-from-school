@@ -1,0 +1,107 @@
+2021-08-19 09:15:27,686 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [io.quarkus] (main) first-code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.1.2.Final) started in 1.143s. Listening on: http://0.0.0.0:8090
+2021-08-19 09:15:27,693 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-08-19 09:15:27,694 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-08-19 09:15:41,335 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:15:41,339 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:15:46,896 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:15:46,897 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:16:05,010 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:16:05,010 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:16:05,868 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:16:05,868 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:16:07,348 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:16:07,349 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:16:08,388 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:16:08,388 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:16:09,442 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:16:09,443 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:16:10,387 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:16:10,387 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:16:12,357 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:16:12,358 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:16:13,326 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:16:13,327 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:16:14,465 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:16:14,465 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:16:15,412 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@543a7ece
+2021-08-19 09:16:15,412 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object com.howard.service.customer.CustomerService@6223613eexecutor-thread-0
+2021-08-19 09:23:20,328 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[31312] INFO  [io.quarkus] (Shutdown thread) first-code-with-quarkus stopped in 0.027s
+2021-08-19 09:23:51,582 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [io.quarkus] (main) first-code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.1.2.Final) started in 1.151s. Listening on: http://0.0.0.0:8090
+2021-08-19 09:23:51,589 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-08-19 09:23:51,589 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-08-19 09:23:56,921 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@285dc40
+2021-08-19 09:23:56,925 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object before sleep com.howard.service.customer.CustomerService@7ce15261executor-thread-0
+2021-08-19 09:23:57,664 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.res.acc.CustomerResource] (executor-thread-1) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@285dc40
+2021-08-19 09:23:57,665 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.ser.CustomerService] (executor-thread-1) test is called on object before sleep com.howard.service.customer.CustomerService@7ce15261executor-thread-1
+2021-08-19 09:23:57,935 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object after sleep com.howard.service.customer.CustomerService@7ce15261executor-thread-0
+2021-08-19 09:23:58,670 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.ser.CustomerService] (executor-thread-1) test is called on object after sleep com.howard.service.customer.CustomerService@7ce15261executor-thread-1
+2021-08-19 09:23:59,301 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.res.acc.CustomerResource] (executor-thread-1) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@285dc40
+2021-08-19 09:23:59,302 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.ser.CustomerService] (executor-thread-1) test is called on object before sleep com.howard.service.customer.CustomerService@7ce15261executor-thread-1
+2021-08-19 09:24:00,307 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.ser.CustomerService] (executor-thread-1) test is called on object after sleep com.howard.service.customer.CustomerService@7ce15261executor-thread-1
+2021-08-19 09:24:00,592 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.res.acc.CustomerResource] (executor-thread-1) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@285dc40
+2021-08-19 09:24:00,592 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.ser.CustomerService] (executor-thread-1) test is called on object before sleep com.howard.service.customer.CustomerService@7ce15261executor-thread-1
+2021-08-19 09:24:01,591 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.res.acc.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@285dc40
+2021-08-19 09:24:01,591 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object before sleep com.howard.service.customer.CustomerService@7ce15261executor-thread-0
+2021-08-19 09:24:01,598 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.ser.CustomerService] (executor-thread-1) test is called on object after sleep com.howard.service.customer.CustomerService@7ce15261executor-thread-1
+2021-08-19 09:24:02,595 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [com.how.ser.CustomerService] (executor-thread-0) test is called on object after sleep com.howard.service.customer.CustomerService@7ce15261executor-thread-0
+2021-08-19 09:48:09,122 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[13472] INFO  [io.quarkus] (Shutdown thread) first-code-with-quarkus stopped in 0.069s
+2021-08-19 10:13:57,883 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[7908] INFO  [io.quarkus] (main) first-code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.1.2.Final) started in 1.129s. Listening on: http://0.0.0.0:8090
+2021-08-19 10:13:57,891 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[7908] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-08-19 10:13:57,891 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[7908] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-08-19 10:14:04,009 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[7908] ERROR [org.jbo.res.res.i18n] (executor-thread-0) RESTEASY002005: Failed executing GET /polys: org.jboss.resteasy.core.NoMessageBodyWriterFoundFailure: Could not find MessageBodyWriter for response object of type: java.util.Arrays$ArrayList of media type: text/html;charset=UTF-8
+	at org.jboss.resteasy.core.ServerResponseWriter.lambda$writeNomapResponse$3(ServerResponseWriter.java:125)
+	at org.jboss.resteasy.core.interception.jaxrs.ContainerResponseContextImpl.filter(ContainerResponseContextImpl.java:404)
+	at org.jboss.resteasy.core.ServerResponseWriter.executeFilters(ServerResponseWriter.java:252)
+	at org.jboss.resteasy.core.ServerResponseWriter.writeNomapResponse(ServerResponseWriter.java:101)
+	at org.jboss.resteasy.core.ServerResponseWriter.writeNomapResponse(ServerResponseWriter.java:74)
+	at org.jboss.resteasy.core.SynchronousDispatcher.writeResponse(SynchronousDispatcher.java:594)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:524)
+	at org.jboss.resteasy.core.SynchronousDispatcher.lambda$invoke$4(SynchronousDispatcher.java:261)
+	at org.jboss.resteasy.core.SynchronousDispatcher.lambda$preprocess$0(SynchronousDispatcher.java:161)
+	at org.jboss.resteasy.core.interception.jaxrs.PreMatchContainerRequestContext.filter(PreMatchContainerRequestContext.java:364)
+	at org.jboss.resteasy.core.SynchronousDispatcher.preprocess(SynchronousDispatcher.java:164)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:247)
+	at io.quarkus.resteasy.runtime.standalone.RequestDispatcher.service(RequestDispatcher.java:73)
+	at io.quarkus.resteasy.runtime.standalone.VertxRequestHandler.dispatch(VertxRequestHandler.java:138)
+	at io.quarkus.resteasy.runtime.standalone.VertxRequestHandler$1.run(VertxRequestHandler.java:93)
+	at io.quarkus.vertx.core.runtime.VertxCoreRecorder$13.runWith(VertxCoreRecorder.java:536)
+	at org.jboss.threads.EnhancedQueueExecutor$Task.run(EnhancedQueueExecutor.java:2449)
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1478)
+	at org.jboss.threads.DelegatingRunnable.run(DelegatingRunnable.java:29)
+	at org.jboss.threads.ThreadLocalResettingRunnable.run(ThreadLocalResettingRunnable.java:29)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2021-08-19 10:14:33,852 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[7908] INFO  [io.quarkus] (Shutdown thread) first-code-with-quarkus stopped in 0.024s
+2021-09-20 12:44:33,918 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [io.quarkus] (main) first-code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.1.2.Final) started in 1.470s. Listening on: http://0.0.0.0:8090
+2021-09-20 12:44:33,918 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-09-20 12:44:33,918 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-09-20 12:44:52,920 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [com.how.res.cus.CustomerResource] (executor-thread-0) Customer resource Creating Customer
+2021-09-20 12:45:00,312 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [com.how.res.cus.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@5a21366a
+2021-09-20 12:45:00,315 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [com.how.ser.cus.CustomerService] (executor-thread-0) test is called on object before sleep com.howard.service.customer.CustomerService@4cf860c0executor-thread-0
+2021-09-20 12:45:01,317 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [com.how.ser.cus.CustomerService] (executor-thread-0) test is called on object after sleep com.howard.service.customer.CustomerService@4cf860c0executor-thread-0
+2021-09-20 12:45:08,308 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [com.how.res.cus.CustomerResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.customer.CustomerResource@5a21366a
+2021-09-20 12:45:08,308 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [com.how.ser.cus.CustomerService] (executor-thread-0) test is called on object before sleep com.howard.service.customer.CustomerService@4cf860c0executor-thread-0
+2021-09-20 12:45:09,319 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [com.how.ser.cus.CustomerService] (executor-thread-0) test is called on object after sleep com.howard.service.customer.CustomerService@4cf860c0executor-thread-0
+2021-09-20 12:47:39,767 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[29588] INFO  [io.quarkus] (Shutdown thread) first-code-with-quarkus stopped in 0.025s
+2021-09-25 11:44:17,610 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[32172] INFO  [io.quarkus] (main) first-code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.1.2.Final) started in 1.180s. Listening on: http://0.0.0.0:8090
+2021-09-25 11:44:17,617 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[32172] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-09-25 11:44:17,617 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[32172] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-09-25 11:44:28,001 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[32172] INFO  [com.how.res.pol.PolyMorphResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.polymorph.PolyMorphResource@76532d92
+2021-09-25 11:45:04,668 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[32172] INFO  [io.quarkus] (Shutdown thread) first-code-with-quarkus stopped in 0.032s
+2021-09-25 11:45:27,216 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[1872] INFO  [io.quarkus] (main) first-code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.1.2.Final) started in 1.122s. Listening on: http://0.0.0.0:8090
+2021-09-25 11:45:27,224 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[1872] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-09-25 11:45:27,224 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[1872] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-09-25 11:45:36,241 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[1872] INFO  [com.how.res.pol.PolyMorphResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.polymorph.PolyMorphResource@6464d495
+2021-09-25 11:47:08,063 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[1872] INFO  [io.quarkus] (Shutdown thread) first-code-with-quarkus stopped in 0.028s
+2021-09-25 11:47:39,438 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[32904] INFO  [io.quarkus] (main) first-code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.1.2.Final) started in 1.109s. Listening on: http://0.0.0.0:8090
+2021-09-25 11:47:39,445 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[32904] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-09-25 11:47:39,445 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[32904] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-09-25 11:48:03,531 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[32904] INFO  [com.how.res.pol.PolyMorphResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.polymorph.PolyMorphResource@6bb89ba8
+2021-09-25 11:50:22,983 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[32904] INFO  [io.quarkus] (Shutdown thread) first-code-with-quarkus stopped in 0.030s
+2021-09-26 11:23:31,821 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[18564] INFO  [io.quarkus] (main) first-code-with-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.1.2.Final) started in 1.091s. Listening on: http://0.0.0.0:8090
+2021-09-26 11:23:31,827 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[18564] INFO  [io.quarkus] (main) Profile prod activated. 
+2021-09-26 11:23:31,827 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[18564] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, resteasy-jackson, smallrye-context-propagation]
+2021-09-26 11:23:37,724 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[18564] INFO  [com.how.res.pol.PolyMorphResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.polymorph.PolyMorphResource@311bc80a
+2021-09-26 11:24:34,330 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[18564] INFO  [com.how.res.pol.PolyMorphResource] (executor-thread-0) Customer resource getCustomers called on object com.howard.resource.polymorph.PolyMorphResource@6a72e90f
+2021-09-26 11:24:41,568 eaa-sh-mihw-kt build/quarkus-app/quarkus-run.jar[18564] INFO  [io.quarkus] (Shutdown thread) first-code-with-quarkus stopped in 0.027s

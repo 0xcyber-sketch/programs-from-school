@@ -1,0 +1,12 @@
+package com.howard.authentication.domain.exception;
+
+public enum Sid {
+    EMAIL_VALIDATION_ERROR,
+    USERNAME_VALIDATION_ERROR,
+    PASSWORD_VALIDATION_ERROR,
+    ID_VALIDATION_ERROR,
+    ROLE_VALIDATION_ERROR,
+    CREDENTIALS_EXIST,
+    CREDENTIALS_NOT_VALID
+
+}

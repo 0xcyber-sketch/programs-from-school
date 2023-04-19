@@ -1,0 +1,25 @@
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\bin\Debug\DelegateExercises.dll
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\bin\Debug\DelegateExercises.pdb
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\obj\Debug\DelegateExercises.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\obj\Debug\DelegateExercises.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\obj\Debug\DelegateExercises.dll
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\obj\Debug\DelegateExercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\DelegateExercises\bin\Debug\DelegateExercises.dll
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\DelegateExercises\bin\Debug\DelegateExercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.csprojAssemblyReference.cache
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.dll
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.pdb
+H:\DotNet\S22\Sessioner\Session 4\DelegateExercise\DelegateExercise\DelegateExercises\bin\Debug\DelegateExercises.pdb
+H:\DotNet\S22\Sessioner\Session 4\DelegateExercise\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.csproj.AssemblyReference.cache
+H:\DotNet\S22\Sessioner\Session 4\DelegateExercise\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.csproj.CoreCompileInputs.cache
+H:\DotNet\S22\Sessioner\Session 4\DelegateExercise\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.pdb
+H:\DotNet\S22\Sessioner\Session 4\DelegateExercise\DelegateExercise\DelegateExercises\bin\Debug\DelegateExercises.exe
+H:\DotNet\S22\Sessioner\Session 4\DelegateExercise\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.csproj.SuggestedBindingRedirects.cache
+H:\DotNet\S22\Sessioner\Session 4\DelegateExercise\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.exe
+C:\Users\emils\Downloads\DelegateExercise\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.csproj.AssemblyReference.cache
+C:\Users\emils\Downloads\DelegateExercise\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\emils\Downloads\DelegateExercise\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.csproj.CoreCompileInputs.cache
+C:\Users\emils\Downloads\DelegateExercise\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.exe
+C:\Users\emils\Downloads\DelegateExercise\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.pdb
+C:\Users\emils\Downloads\DelegateExercise\DelegateExercise\DelegateExercises\bin\Debug\DelegateExercises.exe
+C:\Users\emils\Downloads\DelegateExercise\DelegateExercise\DelegateExercises\bin\Debug\DelegateExercises.pdb
